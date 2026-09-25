@@ -10,3 +10,9 @@
 📫 Contact me: contactMyPlatform@proton.me
 
 ⚡ My project has 18,000+ lines of code and is 95% complete.
+
+---
+
+## 💻 Open-Source Contributions
+
+- **TronWeb Contributor**: Opened [Issue #713](https://github.com/tronprotocol/tronweb/issues/713) proposing documentation improvements, submitted [PR #714](https://github.com/tronprotocol/tronweb/pull/714) for a TRC-20 testing guide on Shasta testnet, and collaborated with [@ramincsy](https://github.com/ramincsy) on a [NestJS backend example](https://github.com/ramioo-labs/nestjs-tronweb-example) for TronWeb integration.
